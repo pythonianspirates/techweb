@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/techweb/static/css/main.c869c5a8.css",
+    "main.js": "/techweb/static/js/main.34238ece.js",
+    "static/media/ai.png": "/techweb/static/media/ai.ff6030d1f49cf53cadfb.png",
+    "static/media/ds.jpg": "/techweb/static/media/ds.83b775f674ca30a8b43f.jpg",
+    "static/media/dwi.svg": "/techweb/static/media/dwi.18bbef6e1d477c6fa1ea38645a0ddc16.svg",
+    "static/media/dsi.jpeg": "/techweb/static/media/dsi.ec5166ef24837b912171.jpeg",
+    "static/media/sd.jpg": "/techweb/static/media/sd.d967abb58fda25fe9842.jpg",
+    "static/media/cs.jpg": "/techweb/static/media/cs.77bc933f9806b91639d3.jpg",
+    "static/media/wb.svg": "/techweb/static/media/wb.4263d80acdc2bac3e541862e64d5881c.svg",
+    "static/media/ml2.jpg": "/techweb/static/media/ml2.0f677485bd63a4768169.jpg",
+    "static/media/etech.jpg": "/techweb/static/media/etech.7cd5131df2b23032d798.jpg",
+    "index.html": "/techweb/index.html",
+    "main.c869c5a8.css.map": "/techweb/static/css/main.c869c5a8.css.map",
+    "main.34238ece.js.map": "/techweb/static/js/main.34238ece.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c869c5a8.css",
+    "static/js/main.34238ece.js"
+  ]
+}
